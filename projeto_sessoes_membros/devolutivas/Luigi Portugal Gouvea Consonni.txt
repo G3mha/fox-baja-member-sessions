@@ -1,0 +1,24 @@
+Nome: Luigi Portugal Gouvea Consonni
+
+Subssistema: Simulação
+
+Cargo atual: Gerente
+
+Você tem em mente algum plano de carreira dentro da equipe? Você pretende se tornar gerente, diretor ou capitão?: Não.
+
+Quanto tempo você pretende participar da equipe?: 2022.1
+
+Você sente falta de feedback ou acha que está recebendo uma boa quantidade?: Temos um certo feedback mas não o ideal. Nas reuniões semanais temos feedback, mas não o suficiente. O esperado seria que obtivéssemos uma tréplica sobre a simulação solicitada. Era algo bem informal (conversa). Falta um feedback formal, que evitaria retrabalhado.
+
+Você acredita estar cumprindo 100% das suas funções do seu cargo atual?: A entrada no estágio piorou bastante meu desempenho na equipe. Mas até março, acredito que me empenhei em um nível legal em Simulação.
+
+Você se sente parte da equipe e está feliz com sua trajetória nela? : Sim, mas mesmo distante depois de março, mas ainda tenho uma ótima recepção dentro da oficina.
+
+Você gosta da sua rotina no seu sub? Você mudaria algo?: Eu criaria um canal de conversa mais forte com o sub de eletrônica.
+
+O que você acha do comportamento dos seus colegas? Você mudaria algo?: Como âmbito pessoal, acredito que todos sejam muito parceiros. Profissionalmente, acho acho que o Katz não se mostrou muito engajado, e em partes isso é culpa minha, por não estar tão presente, desde março.
+
+Observações extras: Temos que pensar em um outro meio para adesão de novos membros no subssistema, diferente da semana de trainees. Buscar pessoas de semestres mais altos ou buscar membros dentro da equipe e realocá-los.
+
+Você sente falta de capacitações ou acha que o dia a dia é suficiente?: Acho que o máximo que podemos receber são os professor que conhecem simulação no Insper darem algumas aulas. Mas de resto é caçar tutorial, fazer simulação e errar e aprender. É importante tabém conhecer no geral o carro do Baja para fazer simulações que se aproximem mais da realidade.
+
